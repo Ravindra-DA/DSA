@@ -1,4 +1,4 @@
-             // leetcode 3 sum problem solution
+             // leetcode problem 15 : 3 sum solution using two pointer approach
 
 
 
