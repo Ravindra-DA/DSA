@@ -4,6 +4,9 @@ This Repository contains solution to DSA problems from leetcode and other platfo
 ### 3 Sum
 - Difficulty level: Medium
 - Link: https://leetcode.com/problems/3sum/description/
+## 2 Sum
+- Difficulty level: Medium
+- Link: https://leetcode.com/problems/two-sum/
 ## Stack
 ### Remove All Adjacent Duplicates In String
 - Difficulty level: Easy
