@@ -7,6 +7,9 @@ This Repository contains solution to DSA problems from leetcode and other platfo
 ### 2 Sum
 - Difficulty level: Medium
 - Link: https://leetcode.com/problems/two-sum/
+### 4 sum
+- Difficulty level: Medium
+- Link: https://leetcode.com/problems/4sum/description/
 ## Stack
 ### Remove All Adjacent Duplicates In String
 - Difficulty level: Easy
