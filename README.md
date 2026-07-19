@@ -20,3 +20,7 @@ This Repository contains solution to DSA problems from leetcode and other platfo
 ### Daily Temperatures
 - Difficulty level: Medium
 - Link: https://leetcode.com/problems/daily-temperatures/description/
+### Next Greater Element II
+- Difficulty level: Medium
+- Link: https://leetcode.com/problems/next-greater-element-ii/description/
+
