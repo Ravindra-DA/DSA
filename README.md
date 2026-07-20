@@ -23,4 +23,8 @@ This Repository contains solution to DSA problems from leetcode and other platfo
 ### Next Greater Element II
 - Difficulty level: Medium
 - Link: https://leetcode.com/problems/next-greater-element-ii/description/
+### Remove All Adjacent Duplicates in String II
+- Difficulty level: Medium
+- Link: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/
+
 
